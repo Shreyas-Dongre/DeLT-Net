@@ -1,7 +1,10 @@
 # DeLT-Net
 An unique attempt to identify sponsor content segments in YouTube videos using AI models.
 
-This repository contains 4 ipynb's [DeLT_Net_DistilBERT_Training.ipynb - Scripts to make dataset from subtitles and train DistilBert model.](https://github.com/Shreyas-Dongre/DeLT-Net/blob/main/DeLT_Net_DistilBERT_Training.ipynb); [DeLT_Net_LSTM_Training.ipynb - Scripts to make dataset from YouTube's interest graph and train Bi-Directional LSTM model.](https://github.com/Shreyas-Dongre/DeLT-Net/blob/main/DeLT_Net_LSTM_Training.ipynb); [DeLT_Net_DeiT_Training.ipynb - Scripts to make dataset from video frames (at 1fps) and train DeiT model.](https://github.com/Shreyas-Dongre/DeLT-Net/blob/main/DeLT_Net_DeiT_Training.ipynb)(The ipynbs demonstrates end-to-end flow).
+This repository contains 4 ipynb's <br>
+[DeLT_Net_DistilBERT_Training.ipynb - Scripts to make dataset from subtitles and train DistilBert model.](https://github.com/Shreyas-Dongre/DeLT-Net/blob/main/DeLT_Net_DistilBERT_Training.ipynb); <br>
+[DeLT_Net_LSTM_Training.ipynb - Scripts to make dataset from YouTube's interest graph and train Bi-Directional LSTM model.](https://github.com/Shreyas-Dongre/DeLT-Net/blob/main/DeLT_Net_LSTM_Training.ipynb); <br>
+[DeLT_Net_DeiT_Training.ipynb - Scripts to make dataset from video frames (at 1fps) and train DeiT model.](https://github.com/Shreyas-Dongre/DeLT-Net/blob/main/DeLT_Net_DeiT_Training.ipynb)<br>(The ipynbs demonstrates end-to-end flow).
 
 [DeLT_Net_DistilBERT_Training.ipynb - Final pipeline with weighted fused model, to test the concept.] (The ipynbs detailis the architecture and results.)
 
